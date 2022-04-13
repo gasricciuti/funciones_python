@@ -1,7 +1,7 @@
 # Funciones [Python]
 # Ejercicios de profundización
 
-# Autor: Inove Coding School
+# Autor: Gaston Ricciuti
 # Version: 2.2
 
 # NOTA: 
